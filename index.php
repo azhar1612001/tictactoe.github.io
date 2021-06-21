@@ -86,7 +86,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
-          <form method="post" action="login.php" class="sign-in-form">
+          <form method="post" action="index.php" class="sign-in-form">
             <h2 class="title">Sign in</h2>
             <div class="input-field">
               <i class="fas fa-envelope"></i>
