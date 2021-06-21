@@ -130,7 +130,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
             <p>
               Registered users please login here and get our sevices.
             </p>
-            <a href="login.php"><button class="btn transparent playAgain" id="sign-up-btn">
+            <a href="index.php"><button class="btn transparent playAgain" id="sign-up-btn">
               Sign in
             </button></a>
           </div>
